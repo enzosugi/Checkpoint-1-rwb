@@ -8,7 +8,7 @@ export default function Header() {
             <div className="header">
                 <nav>
                     <ul>
-                        <a class="nacional"href="#">Nacional</a>
+                        <a class="nacional"href="#">Nacional<span class="redball"></span></a>
                         <a href="#">Business</a>
                         <a href="#">Internacional</a>
                         <a href="#">Saúde</a>

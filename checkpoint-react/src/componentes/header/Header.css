@@ -41,5 +41,15 @@ ul .nacional {
     display: flex;
     justify-content: center;
     align-items: center;    
+    display: flex;
+    justify-content: space-evenly;
+
+}
+
+.redball {
+    height: 13px;
+    width: 13px;
+    background-color: rgb(180, 42, 42);
+    border-radius: 15px;
 
 }
