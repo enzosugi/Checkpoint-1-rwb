@@ -1,7 +1,9 @@
 import React from 'react'
-import Conteudo from './componentes/conteudo-site/Conteudo'
 import Header from './componentes/header/Header'
+import Conteudo from './componentes/conteudo-site/Conteudo'
+import Post from './componentes/Conteudo-post/Post'
 import './App.css'
+
 
 
 
@@ -11,9 +13,9 @@ const App = () => {
             <Header/>
             <div className="conteudo">
                 <Conteudo/>   
-            </div>
             <div className="conteudo-post">
-                
+                <Post/>
+            </div>
             </div>
         </div>
     )

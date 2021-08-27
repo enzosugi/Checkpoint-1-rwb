@@ -1,0 +1,26 @@
+
+figure {
+    width: 100%;
+    height: 100px;
+    
+    
+}
+.logo {
+    width: 35%;
+    height: 90%;
+    float: right;
+    position: static;
+    display: block;
+}
+
+.txt-post{
+    font-size: 25px;
+    line-height: 30px;
+    letter-spacing: .02em;
+    color: #262626;
+    font-weight: 300;
+}
+
+.txt-post a {
+    color: rgb(91, 91, 255);
+}
